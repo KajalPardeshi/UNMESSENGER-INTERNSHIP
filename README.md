@@ -1,2 +1,1 @@
-# UNMESSENGER-INTERNSHIP
-This repository contains all the projects that I have worked on with Unmessenger during my internship.
+SQL skills challenge by Unmessenger. This assignment contains basic to intermediate level SQL questions to test your SQL skills.
