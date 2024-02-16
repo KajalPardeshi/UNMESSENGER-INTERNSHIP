@@ -1,1 +1,1 @@
-SQL skills challenge by Unmessenger. This assignment contains basic to intermediate level SQL questions to test your SQL skills.
+This repository contains all the projects on which I have worked on in my internship by Unmessenger.
